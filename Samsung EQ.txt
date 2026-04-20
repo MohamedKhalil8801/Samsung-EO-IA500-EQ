@@ -1,0 +1,6 @@
+Copy: L=R R=L
+Preamp: -8.3 dB
+Preamp: -4.6 dB
+Include: percise-to-diamod-b.txt
+Channel: L
+Include: Samsung new R side.txt
