@@ -1,4 +1,4 @@
-Include: C:\Program Files\EqualizerAPO\config\EQ_Headset_USB-C_to_35mm_Headphone_Jack_Adapter_20260415_055618.txt
+Include: EQ_Headset_USB-C_to_35mm_Headphone_Jack_Adapter_20260415_055618.txt
 Filter 1: ON PK Fc 44 Hz Gain -2.76 dB Q 0.577
 Filter 2: ON PK Fc 127 Hz Gain -4.44 dB Q 0.695
 Filter 3: ON PK Fc 256 Hz Gain -5.83 dB Q 0.537

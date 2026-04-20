@@ -1,6 +1,6 @@
 Copy: L=R R=L
-Preamp: -8.3 dB
-Preamp: -4.6 dB
+Preamp: -7.5 dB
+Preamp: -5.3 dB
 Include: percise-to-diamod-b.txt
 Channel: L
 Include: Samsung new R side.txt
