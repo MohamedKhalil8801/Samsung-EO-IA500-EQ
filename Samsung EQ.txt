@@ -4,3 +4,5 @@ Preamp: -5.3 dB
 Include: percise-to-diamod-b.txt
 Channel: L
 Include: Samsung new R side.txt
+Channel: R
+Filter: ON PK Fc 1200 Hz Gain -1.74 dB Q 10
